@@ -84,7 +84,7 @@ button{
  
  #parent-container{
     display: flex;
-    background-color: white;
+    background-color: #EDF7FA;
    justify-content: center;
  }
  .header{
@@ -167,7 +167,7 @@ padding: 25px;
 }
 #damian{
    background-color: bisque;
-   width: 418px;
+ 
    padding: 25px;
    border-radius: 4px;
 }
@@ -207,7 +207,7 @@ padding: 25px;
 }
 #rice{
    background-color: bisque;
-   width: 418px;
+  
    padding: 25px;
    border-radius: 4px;
 }
@@ -289,4 +289,8 @@ padding: 25px;
 #mice{
    display: flex;
    justify-content: center;
+}
+
+#recent-post-section {
+   background-color: #EDF7FA;
 }
