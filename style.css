@@ -48,7 +48,7 @@ padding: 0 146px 0 146px;
 #beans{
    height: 300px;
    width: 300px;
-   border-radius: 4px%;
+   border-radius: 4px;
 }
 #henesy{
    display: flex;
@@ -143,9 +143,7 @@ button{
    margin-right: 18px;
  }
  
- #science{
-   display: ;
- }
+ 
 
  #teen{
    width: 246px;
@@ -157,7 +155,6 @@ button{
  }
 #priest{
    background-color: bisque;
-   width: 418px;
    padding: 20px;
    border-radius: 4px;
 }
@@ -251,8 +248,8 @@ padding: 25px;
 
 }
 #robin{
-   width: 35px;
-   height: 35px;
+   width: 30px;
+   height: 30px;
    margin-right: 10px;
 }
 #cake{
@@ -261,8 +258,8 @@ padding: 25px;
    margin-right: 10px;
 }
 #maths{
-   width: 50px;
-   height: 40px;
+   width: 30px;
+   height: 30px;
    margin-right: 10px;
    padding-top: 0px;
 }
@@ -279,6 +276,8 @@ padding: 25px;
    justify-content: space-evenly;
    margin-right: 100px;
    height: 50pxs;
+   margin-top: 83px;
+   gap: 35px;
    ;
    flex-direction: column;
 }
